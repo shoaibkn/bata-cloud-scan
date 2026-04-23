@@ -1,0 +1,8 @@
+{
+  "apiBaseUrl": "https://svs.lumin8.in",
+  "agentToken": "",
+  "checkIntervalSeconds": 300,
+  "erpPort": 9100,
+  "logLevel": "Information",
+  "logFilePath": "lumin8-agent.log"
+}

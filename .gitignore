@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+lumin8-agent/bin/Release/*
+lumin8-agent/obj/*
